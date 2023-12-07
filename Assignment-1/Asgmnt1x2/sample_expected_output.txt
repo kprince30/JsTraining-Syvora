@@ -1,0 +1,10 @@
+[
+  {
+      "company": "Deqode",
+      "type": "Full-Time",
+      "description": "In-depth understanding of OOP, microservices design patterns, domain driven design, data structures, algorithms, and concurrency.Experience building secure, distributed, scalable, high-performance, resilient systems.Proven track record in building products on big data systems such as Kafka and Kinesis.Experience with Agile Development Methodologies and Test-Driven Development.Excellent communication and teamwork skills.Nice to have: Experience developing in JavaScript on NodeJS. Payments domain expertise. "
+      "tags": "nodejs, kafka",
+      "processing_timestamp": 1581921103583
+  },
+  ... (other records)
+]
