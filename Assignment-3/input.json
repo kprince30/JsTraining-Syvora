@@ -1,17 +1,22 @@
 [
   {
     "quantity": 1,
-    "name": "book at",
-    "price": 12.49
+    "name": "imported bottle of perfume at",
+    "price": 27.99
   },
   {
     "quantity": 1,
-    "name": "chocolate at",
-    "price": 0.85
+    "name": "bottle of perfume at",
+    "price": 18.99
   },
   {
     "quantity": 1,
-    "name": "music CD at",
-    "price": 14.99
+    "name": "packet of headache pills at",
+    "price": 9.75
+  },
+  {
+    "quantity": 1,
+    "name": "box of imported chocolates at",
+    "price": 11.25
   }
 ]

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Login / SignUp</title>
+  <link rel="stylesheet" href="style/style.css">
+</head>
+<body>
+  <h1>Login / SignUp</h1>
+
+   <h2>SignUp</h2>
+   <form action="/signup" method="post">
+    <input type="text" name="username" placeholder="Username" required>
+    <input type="password" name="password" placeholder="Password" required>
+    <button type="submit">SignUp</button>
+   </form>
+
+  <h2>Login</h2>
+  <form action="/login" method="post">
+  <input type="text" name="username" placeholder="Username" required>
+  <input type="password" name="password" placeholder="Password" required>
+  <button type="submit">Login</button>
+  </form><br>
+
+  <div class="center">
+    <a href="/users" class="user-list-link">View User List</a>
+  </div><br>
+  
+</body>
+</html>
